@@ -53,28 +53,24 @@ Azure Language Service:- Azure AI Language is a cloud-based service from Microso
 # Storage Account
 ![STORAGE ACCOUNT](https://github.com/KukkalaChaitanya/Myportfolio/assets/167077990/42a44058-eaa5-4ad4-a53f-5634f8ff46d6)
 # Container
-![container](https://github.com/AravindhVemala/Organicfood1/assets/152161180/5e9435f5-d316-461c-a673-1a69ec607ca7)
+![CONTAINER](https://github.com/KukkalaChaitanya/Myportfolio/assets/167077990/b3808a55-21d0-4896-9f5a-aa740cc9069d)
 # Backup vault
-![backup](https://github.com/AravindhVemala/Organicfood1/assets/152161180/6de9ad07-ddbc-4295-98bc-273e7a380766)
+![BACK UP VAULT](https://github.com/KukkalaChaitanya/Myportfolio/assets/167077990/8d0a9bc9-c7bf-4d68-ab32-16d40b56c12b)
 # Backup policy
-![policy](https://github.com/AravindhVemala/Organicfood1/assets/152161180/e9afbecf-6a43-4f32-b297-f5c21a1f9885)
-# Azure Bot
-![AzureBot](https://github.com/AravindhVemala/Organicfood1/assets/152161180/7f7d5458-29ff-4cd5-bde9-6e789ad761fc)
-# Test in web chat
-![Testinweb](https://github.com/AravindhVemala/Organicfood1/assets/152161180/20ac0b11-ad63-4ea8-a370-ecaff3fa8b41)
+![BACK UP POLICY](https://github.com/KukkalaChaitanya/Myportfolio/assets/167077990/e5567a81-54d7-4d1e-a8bb-c4701ae03bf7)
+# Azure bot
+![AZURE BOT](https://github.com/KukkalaChaitanya/Myportfolio/assets/167077990/7adb1008-b5fd-43ed-b5f7-4a85932d3065)
 # Description
 Here I am attaching the final working website's screenshot for the reference.
 
 ## Working Live Project Display:
 # Home page
-![home](https://github.com/AravindhVemala/Organicfood1/assets/152161180/19922ca1-dd8e-41e4-95e2-45d572ed6e6d)
+![HOME PAGE](https://github.com/KukkalaChaitanya/Myportfolio/assets/167077990/50e73ad4-9e99-49ae-999d-73599a4c442b)
 # Contact page
-![contact](https://github.com/AravindhVemala/Organicfood1/assets/152161180/cc5751e1-4d7a-4867-8c2b-c6f0cda0ddfe)
+![CONTACT PAGE](https://github.com/KukkalaChaitanya/Myportfolio/assets/167077990/4bd39939-ba8c-4599-8c57-ac7d81940c39)
 ## Final Project Statement:
-For our final project, we aim to explore the benefits and challenges of organic food production and consumption. <br />
-By examining both the opportunities and limitations of organic food production, we aim to provide valuable insights for consumers, policymakers, and stakeholders interested in promoting healthier, more sustainable food systems."
-
-
+For my final project,My website to showcage my details. <b />
+My details of my education and project I have done in graduatiuon.Skills and contact details given in my website. <b 
 
 
 
