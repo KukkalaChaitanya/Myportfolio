@@ -1,4 +1,4 @@
-
+#
 # Industry type: Education
 
 # Project Title:   “MY PORTFOLIO”
@@ -51,7 +51,7 @@ Azure Language Service:- Azure AI Language is a cloud-based service from Microso
 
 # Screenshot’s:
 # Storage Account
-![storage](https://github.com/AravindhVemala/Organicfood1/assets/152161180/4799593e-479b-4b66-8053-7fd94c60145b)
+![STORAGE ACCOUNT](https://github.com/KukkalaChaitanya/Myportfolio/assets/167077990/42a44058-eaa5-4ad4-a53f-5634f8ff46d6)
 # Container
 ![container](https://github.com/AravindhVemala/Organicfood1/assets/152161180/5e9435f5-d316-461c-a673-1a69ec607ca7)
 # Backup vault
