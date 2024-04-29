@@ -8,8 +8,7 @@ This website serves as a platform to showcase my skills and values. It includes 
 
 
 # Roles and responsibilities
-1.K.Chaitanya
-
+1.K.Chaitanya,This is my individual project.I am responsible for managing,deployment and collecting images and chatbot quetions. <br />
 
 # Azure services used:
 1.Azure blob storage <br />
@@ -37,13 +36,12 @@ Azure Backup policy:- An Azure Backup policy service  is a tool within Azure tha
 
 # Azure AI Service :-
 (We can add 1 Azure AI Service)
-Azure Cognitive Services: These pre-built APIs enable you to add intelligent features to your website. For organic food content, consider using: <br />
-Text Analytics: Extract insights from product descriptions, user reviews, and blog posts. <br />
-Computer Vision: Analyze images of organic produce, packaging, and labels. <br />
+Azure Cognitive Services: These pre-built APIs enable you to add intelligent features to your website. For my details, consider using chatbot to know more about me: <br />
+Text Analytics: Extract insights from description about skills and qualifications. <br />
 Language Understanding (LUIS): Create natural language interfaces for search and chatbots. <br />
-Azure Machine Learning: Train custom models specific to organic food data. For instance: <br />
-Recommendation Models: Suggest personalized organic products to users. <br />
-Classification Models: Categorize food items (e.g., fruits, vegetables, grains) based on images or descriptions. <br />
+Azure Machine Learning: Train custom models specific of my biography. For instance: <br />
+Recommendation Models: Suggest to know the personal and professional details to the clients. <br />
+Classification Models: Categorize (e.g., education,about,contact) based on images or descriptions. <br />
 Azure Language Service:- Azure AI Language is a cloud-based service from Microsoft that provides tools for developers to add natural language processing (NLP) capabilities to their applications. It provides Pre-built functionalities, Customizable models, Multilingual support, On-premises deployment. Azure AI Language is a versatile tool for developers who want to incorporate natural language understanding into their applications.
 
 # Screenshot’s:
@@ -57,6 +55,8 @@ Azure Language Service:- Azure AI Language is a cloud-based service from Microso
 ![BACK UP POLICY](https://github.com/KukkalaChaitanya/Myportfolio/assets/167077990/e5567a81-54d7-4d1e-a8bb-c4701ae03bf7)
 # Azure bot
 ![AZURE BOT](https://github.com/KukkalaChaitanya/Myportfolio/assets/167077990/7adb1008-b5fd-43ed-b5f7-4a85932d3065)
+# Chatbot
+![chatbot](https://github.com/KukkalaChaitanya/Myportfolio/assets/167077990/3771a929-4f9e-465d-aa25-318aeab9a157)
 # Description
 Here I am attaching the final working website's screenshot for the reference.
 
