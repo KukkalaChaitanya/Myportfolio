@@ -1,10 +1,10 @@
 # MY PORTFOLIO
 This website serves as a platform to showcase my skills and values. It includes comprehensive information about my educational background, as well as the projects I have undertaken during my academic journey. Additionally, it provides contact details for individuals interested in reaching out to discuss potential employment opportunities.
 # Project Details
-1.Project Demo URL:  <br />
+1.Project Demo URL: https://portrfoliostorage.z13.web.core.windows.net/ <br />
 2.Demo Video URL: https://youtu.be/INZ9oDXloyc <br />
-3.GitHub Repository URL: [[https://aravindhvemala.github.io/Organicfood1](https://github.com/AravindhVemala/Organicfood1)](https://github.com/AravindhVemala/Organicfood1) <br />
-4.Industry: Farming - Industry
+3.GitHub Repository URL: https://kukkalachaitanya.github.io/Myportfolio/<br />
+4.Industry: Education - Industry
 
 
 # Roles and responsibilities
