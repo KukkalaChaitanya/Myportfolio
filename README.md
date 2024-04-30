@@ -3,7 +3,7 @@ This website serves as a platform to showcase my skills and values. It includes 
 # Project Details
 1.Project Demo URL: https://portrfoliostorage.z13.web.core.windows.net/ <br />
 2.Demo Video URL: https://youtu.be/o-gMGfHPDLo <br />
-3.GitHub Repository URL: https://kukkalachaitanya.github.io/Myportfolio/<br />
+3.GitHub Repository URL: [https://kukkalachaitanya.github.io/Myportfolio/](https://github.com/KukkalaChaitanya/Myportfolio?tab=readme-ov-file)<br />
 4.Industry: Education - Industry
 
 
