@@ -1,7 +1,7 @@
 # MY PORTFOLIO
 This website serves as a platform to showcase my skills and values. It includes comprehensive information about my educational background, as well as the projects I have undertaken during my academic journey. Additionally, it provides contact details for individuals interested in reaching out to discuss potential employment opportunities.
 # Project Details
-1.Project Demo URL: https://portrfoliostorage.z13.web.core.windows.net/ <br />
+1.Project Demo URL: https://portfoliostorrageac.z13.web.core.windows.net/ <br />
 2.Demo Video URL: https://youtu.be/o-gMGfHPDLo <br />
 3.GitHub Repository URL: [https://kukkalachaitanya.github.io/Myportfolio/](https://github.com/KukkalaChaitanya/Myportfolio?tab=readme-ov-file)<br />
 4.Industry: Education - Industry
